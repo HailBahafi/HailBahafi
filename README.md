@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @HailBahafi: Software developer.
 - 👀 Interests: Coding, Creativity, Coffee.
-- 🌱 Learning: Clouds, Code, Coolness.
-- 💞️ Collaborate: Ideas, Innovation, Internet.
 - 📫 Contact: Email, LinkedIn, Portfolio.
-- 😄 Pronouns: He, Him, Hero.
 - ⚡ Fun Fact: Coffee = Code Fuel.
