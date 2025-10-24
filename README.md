@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hail%20Bahafi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
+<p align="center">
+  <a href="mailto:d.hailbahafi@gmail.com"><img src="https://img.shields.io/badge/Email-d.hailbahafi%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.hailbahafi.com"><img src="https://img.shields.io/badge/Portfolio-hailbahafi.com-black?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/hailbahafi"><img src="https://img.shields.io/badge/LinkedIn-hailbahafi-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/HailBahafi"><img src="https://img.shields.io/badge/GitHub-HailBahafi-black?style=flat-square&logo=github"></a>
+</p>
+
 <h3 align="center">💻 Passionate Developer | ☕ Coffee Enthusiast | 🚀 Problem Solver</h3>
 
 <p align="center">
@@ -233,10 +240,11 @@ Ramaiah University, Bengaluru, India | 2019 - 2023
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hailbahafi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailbahafi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.hailbahafi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hailbahafi.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.hailbahafi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HailBahafi)
+[![Twitter](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HailBahafi)
 
 </div>
 
