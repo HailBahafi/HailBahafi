@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:d.hailbahafi@gmail.com"><img src="https://img.shields.io/badge/Email-d.hailbahafi%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.hailbahafi.com"><img src="[https://img.shields.io/badge/Portfolio-hailbahafi.com-black?style=flat-square&logo=google-chrome](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)"></a>
+  <a href="https://www.hailbahafi.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hailbahafi"><img src="https://img.shields.io/badge/LinkedIn-hailbahafi-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/HailBahafi"><img src="https://img.shields.io/badge/GitHub-HailBahafi-black?style=flat-square&logo=github"></a>
 </p>
