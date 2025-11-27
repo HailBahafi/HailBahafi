@@ -178,14 +178,6 @@ Web application with real-time data synchronization, interactive dashboards, and
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HailBahafi&theme=tokyonight" />
-</div>
-
----
-
 ### 💼 What I'm Currently Working On
 
 - 🔭 **Frontend Developer at CleanLife** - Building responsive web and mobile applications with React, Next.js, and React Native
