@@ -114,14 +114,6 @@ const hailBahafi = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HailBahafi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
