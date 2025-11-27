@@ -171,15 +171,6 @@ Web application with real-time data synchronization, interactive dashboards, and
 - 💬 Ask me about **React, Next.js, React Native, TypeScript, and Performance Optimization**
 - ⚡ Fun fact: **Code + Coffee = Magic ☕✨**
 
-### 📊 Key Achievements
-
-- ✅ **20% increase** in user engagement through intuitive UI/UX design
-- ✅ **30% improvement** in page load speed using Next.js optimization
-- ✅ **15% increase** in conversion rates with SSR/SSG implementation
-- ✅ **25% reduction** in UI-related support inquiries through responsive design
-
----
-
 ### 💼 Professional Experience
 
 ```
