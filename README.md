@@ -1,6 +1,6 @@
 ## Hi, I'm Hail 👋
 
-Frontend & full-stack engineer in Riyadh 🇸🇦. I build web and mobile products with **Next.js, React Native and TypeScript**, and more and more of the backend too: NestJS APIs, Python services and AI integrations.
+Software engineer in Riyadh 🇸🇦. I build web and mobile products with **Next.js, React Native and TypeScript**, and more and more of the backend too: NestJS APIs, Python services and AI integrations.
 
 Most of what I ship is Arabic-first (RTL) and goes to production: SaaS dashboards, e-commerce sites and internal platforms.
 
