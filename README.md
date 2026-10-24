@@ -16,10 +16,4 @@ Into **full-stack, AI, open source, and exploring new ideas.**
 
 ---
 
-### What I care about
-
-- **Performance:** I treat Core Web Vitals as part of the feature, not an afterthought.
-- **Readable code:** I write for whoever maintains it next.
-- **RTL done right:** Arabic is a first-class language in my products, not a translation layer.
-
 <sub>Most of my work lives in private repos. Ask me about it.</sub>
