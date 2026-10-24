@@ -1,8 +1,8 @@
-## Hi, I'm Hail 👋
+I build stuff for the web, mobile, and whatever idea comes next.
 
-Software engineer in Riyadh 🇸🇦. I build web and mobile products with **Next.js, React Native and TypeScript**, and more and more of the backend too: NestJS APIs, Python services and AI integrations.
+Into **full-stack development, AI, automation, and open source**.
 
-Most of what I ship is Arabic-first (RTL) and goes to production: SaaS dashboards, e-commerce sites and internal platforms.
+Always building, breaking, learning, and shipping.
 
 [hailbahafi.com](https://www.hailbahafi.com) · [LinkedIn](https://www.linkedin.com/in/hailbahafi) · [X](https://x.com/HailBahafi) · [d.hailbahafi@gmail.com](mailto:d.hailbahafi@gmail.com)
 
