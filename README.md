@@ -1,8 +1,6 @@
-I build stuff for the web, mobile, and whatever idea comes next.
+I build things for the web, mobile, and sometimes just for fun.
 
-Into **full-stack development, AI, automation, and open source**.
-
-Always building, breaking, learning, and shipping.
+Into **full-stack, AI, open source, and ideas that probably start at 2 AM.**
 
 [hailbahafi.com](https://www.hailbahafi.com) · [LinkedIn](https://www.linkedin.com/in/hailbahafi) · [X](https://x.com/HailBahafi) · [d.hailbahafi@gmail.com](mailto:d.hailbahafi@gmail.com)
 
